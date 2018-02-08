@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AchaeansCheckedListView">
+        <attr name="itemLayoutId" format="integer" />
+        <attr name="markSrc" format="integer" />
+        <attr name="markColor" format="color" />
+        <attr name="choiceMode" format="enum">
+            <enum name="multiple" value="0" />
+            <enum name="single" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

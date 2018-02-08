@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="choice_tv" type="id"/>
+    <item name="choice_mark_iv" type="id"/>
+</resources>
